@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Best Deal App</string>
+    <string name="facebook_app_id">4205772582788706</string>
+    <string name="fb_login_protocol_scheme">fb4205772582788706</string>
+</resources>

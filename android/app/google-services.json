@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925455728995",
+    "project_id": "best-deal-app",
+    "storage_bucket": "best-deal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925455728995:android:dc6176fb94716b1fca5356",
+        "android_client_info": {
+          "package_name": "com.coding.best_deal_app_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925455728995-6ktql0msefs8v204brtl4uv93bbdn8nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coding.best_deal_app_v2",
+            "certificate_hash": "29965792a99c15a2545e4d7bc5236c4f38b3685a"
+          }
+        },
+        {
+          "client_id": "925455728995-o29b081ood17uq7hoqc0g26lm5nko4u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ3FmGBlUB1Dmu30-cUgSbjBsjMOTxjos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925455728995-o29b081ood17uq7hoqc0g26lm5nko4u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
